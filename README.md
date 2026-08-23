@@ -1,7 +1,7 @@
 # Awesome-Court-Case-Management
 
 Markdown
-# Top Court Case Management Platform Ecosystem
+## Top Court Case Management Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Court Case Management, Docket Management, Court Calendaring, E-Filing, Document Management, Hearings, Judicial Workflows, Caseflow, Court Finance, Evidence, Warrants, Notifications & Judicial Analytics*  

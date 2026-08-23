@@ -44,50 +44,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Tyler Odyssey / Enterprise Justice](https://www.tylertech.com/products/odyssey/case-manager)**  
-  Comprehensive court case-management ecosystem covering case administration, dockets, calendars, caseloads, documents, workflows, fees, fines, payments and collections. Odyssey is designed for courts ranging from individual courts to statewide implementations. :contentReference[oaicite:6]{index=6}
-
-- **[Tyler Enterprise Justice](https://www.tylertech.com/solutions/courts-public-safety/courts-justice)**  
-  Broader courts-and-justice platform covering court case management, e-filing, financial management, attorney/public access and related justice workflows. Tyler states that its court case-management systems serve courts ranging from small municipal courts to large statewide systems. :contentReference[oaicite:7]{index=7}
-
-- **[Journal Technologies](https://www.justicetrax.com/)**  
-  Justice-sector software provider offering court, prosecutor, public-defender, probation and related justice-management solutions.
-
-- **[Equivant CourtView](https://equivant-court.com/solutions/case-management/courtview/)**  
-  Enterprise court case-management platform covering accounting, case processing, calendaring, identity management, document management and reporting. CourtView can also integrate with online dispute-resolution and virtual-hearing systems. :contentReference[oaicite:8]{index=8}
-
-- **[Equivant JWorks](https://equivant-court.com/)**  
-  Next-generation Equivant court-management offering positioned as a successor/modern alternative for court operations, workflows and judicial case management.
-
-- **[ShowCase](https://www.courtview.com/)**  
-  Court-management software ecosystem historically associated with court case processing, docketing, calendaring, financial management and justice workflows.
-
-- **[Courthouse Technologies](https://www.courthousetechnologies.com/)**  
-  Court technology provider focused on judicial workflow, courtroom and case-management technology.
-
-- **[FullCourt Enterprise](https://www.justicesystems.com/)**  
-  Court case-management software designed to support court administration, case processing, calendaring, financial workflows and justice-related operations.
-
-- **[Benchmark Systems](https://www.benchmarks.com/)**  
-  Court-management technology focused on case processing, court administration, docketing, calendaring and related judicial workflows.
-
-- **[Justice Systems](https://www.justicesystems.com/)**  
-  Justice-technology provider offering court and justice case-management products, including FullCourt-oriented solutions.
-
-- **[Journal Technologies eFile & Serve](https://www.justicetrax.com/)**  
-  Electronic filing and service capabilities supporting digital submission and processing of court documents.
-
-- **[Tyler eFile & Serve](https://www.tylertech.com/products/odyssey/file-serve)**  
-  Electronic filing and service platform integrated with Enterprise Justice, allowing centralized filing, service tracking, document access and electronic fee processing. :contentReference[oaicite:9]{index=9}
-
-- **[Tyler Court Analytics](https://www.tylertech.com/products/court-analytics)**  
-  Court analytics platform that combines justice-system data with standardized court metrics and dashboards for operational and judicial decision-making. :contentReference[oaicite:10]{index=10}
-
-- **[Tyler Attorney Manager](https://www.tylertech.com/products/odyssey/attorney-manager)**  
-  Prosecutor and public-defender case-management software for organizing cases, witnesses, victims, evidence, documents, statistics and trial preparation. :contentReference[oaicite:11]{index=11}
-
-- **[Tyler Financial Manager](https://www.tylertech.com/products/odyssey/financial-manager)**  
-  Court-finance functionality for managing cash, assets, liabilities, disbursements and financial accountability within the justice ecosystem. :contentReference[oaicite:12]{index=12}
+| Platform | Description & Key Features | Starting Pricing / Fee Structure | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Tyler Odyssey / Enterprise Justice](https://www.tylertech.com/products/odyssey/case-manager)** | Comprehensive court CMS covering case administration, dockets, calendars, caseloads, documents, workflows, fees, fines, payments, and collections across municipal to statewide courts. | Small municipal/county deployments start at ~$189,000/year for maintenance & SaaS licenses; mid-to-large county/statewide contracts start from $600,000–$810,000/year (10-year statewide implementations scale to $16.8M+). | No free-forever plan. Free trial available only as a custom guided vendor proof-of-concept/pilot demo (typically 30–60 days upon RFP qualification, limited to sandbox environment). |
+| **[Tyler Enterprise Justice](https://www.tylertech.com/solutions/courts-public-safety/courts-justice)** | Unified justice suite spanning court case management, e-filing, financial management, attorney/public access portals, and cross-agency justice workflows. | Full enterprise justice suite deployments start at ~$500,000–$1,200,000/year SaaS subscription depending on jurisdiction size and integrated agency modules. | No free-forever plan. Free trial available via tailored 30-day staging/sandbox demonstration environment with preloaded sample court records. |
+| **[Journal Technologies (eCourt / JusticeTrax)](https://www.justicetrax.com/)** | Justice-sector software providing court (eCourt), prosecutor, public-defender, probation, and forensic LIMS (JusticeTrax) case management solutions. | JusticeTrax LIMS-plus starts at ~$301,710 initial contract (28 named licenses) + ~$30,125/year recurring maintenance (approx. 18–25% maintenance); eCourt starts at ~$250,000–$450,000/year for county deployments. | No free-forever plan. Free trial offered as a 30-day interactive pilot sandbox for qualified judicial agencies upon discovery consultation. |
+| **[Equivant CourtView](https://equivant-court.com/solutions/case-management/courtview/)** | Enterprise court case-management platform covering accounting, case processing, calendaring, identity management, document indexing, and virtual hearing integration. | Entry-level municipal/county court implementations start at ~$150,000–$350,000 initial license & setup + ~$35,000–$75,000/year ongoing SaaS maintenance. | No free-forever plan. Free trial available only as a structured vendor-led demo/pilot (14–30 days access to pre-configured sandbox court). |
+| **[Equivant JWorks](https://equivant-court.com/)** | Next-generation court CMS offering modern web architecture, configurable judicial workflows, hearing scheduling, and operational docketing. | Modular cloud SaaS subscriptions start at ~$60,000–$120,000/year for single-jurisdiction courts, scaling with caseload volume and user seats. | No free-forever plan. Free trial provided as a 14-day guided cloud evaluation instance limited to 5 administrative test accounts. |
+| **[ShowCase](https://www.courtview.com/)** | Court-management software historically supporting court case processing, docketing, calendaring, financial management, and multi-bench justice workflows. | Enterprise installations start at ~$125,000–$250,000 for initial implementation with recurring annual maintenance starting around $25,000–$50,000/year. | No free-forever plan. Free trial offered as a scheduled 14-day demonstration sandbox with mock docket data. |
+| **[Courthouse Technologies (Tyler Jury)](https://www.courthousetechnologies.com/)** | Specialized judicial workflow and jury management system covering summons generation, juror qualification, check-in kiosks, and courtroom panel tracking. | Annual software SaaS subscription starting at ~$15,000–$45,000/year for municipal/district courts; or per-summons utility rate starting at ~$0.25–$0.50 per printed/mailed summons. | No free-forever plan. Free trial offered as a 60-day (2-month) operational pilot program for verified court jurisdictions testing summons workflows. |
+| **[FullCourt Enterprise](https://www.justicesystems.com/)** | Court CMS by Justice Systems (Ontario Systems) for court administration, case processing, calendaring, fines/restitution accounting, and warrant management. | Base municipal/district court tiers start at ~$40,000–$85,000/year SaaS licensing + one-time configuration and onboarding fees (~$25,000). | No free-forever plan. Free trial available as a 30-day sandbox evaluation trial for court clerks and IT evaluators (mock data only). |
+| **[Benchmark Systems](https://www.benchmarks.com/)** | Case processing, court administration, docketing, calendaring, and judicial workflow system by Pioneer Technology Group (Catalis). | Starting tier for municipal and county courts starts at ~$35,000–$75,000/year SaaS contract with modular add-ons for e-citations and cashiering. | No free-forever plan. Free trial provided via 14-day vendor-provisioned demo environment with up to 3 judge/clerk test roles. |
+| **[Justice Systems](https://www.justicesystems.com/)** | Court and justice-sector technology provider delivering integrated FullCourt CMS, CitePay court fee portals, and prosecutor tracking modules. | Core software contracts start at ~$50,000/year for municipal courts; CitePay portal transaction fee starts at ~2.75%–3.5% per credit card transaction (or $2.50–$5.00 flat fee paid by payer). | No free-forever plan. Free trial offered via 30-day staging portal access with simulated merchant processing and test dockets. |
+| **[Journal Technologies eFile & Serve](https://www.justicetrax.com/)** | Electronic filing and service portal supporting digital submission, fee payment processing, and clerk document verification for court systems. | Platform base SaaS starts at ~$30,000/year for courts; filer per-submission service fee starts at $9.45 per filing transaction + 2.75% payment processing fee. | Free for public docket viewing and basic account registration (0 days expiration); filing submissions require pay-per-transaction ($9.45/filing). |
+| **[Tyler eFile & Serve](https://www.tylertech.com/products/odyssey/file-serve)** | Centralized electronic filing, service tracking, document distribution, and statutory court fee processing integrated with Odyssey / Enterprise Justice. | Base platform funded via court contract (~$50,000–$150,000/year) or transactional Electronic Filing Manager (EFM) convenience fee starting at $3.50–$5.00 per filing + 2.89% card processing fee. | Free account registration and electronic service recipient access (unlimited time, 0 cost to receive service); active e-filing submissions charged per transaction. Fee waivers supported for indigent filers. |
+| **[Tyler Court Analytics](https://www.tylertech.com/products/court-analytics)** | Judicial intelligence and BI platform combining court CMS event data with standard court metrics, clearance rate KPIs, and backlog tracking dashboards. | Add-on SaaS analytics module starting at ~$18,000–$35,000/year per court jurisdiction connected to Tyler Odyssey / Enterprise Justice data feeds. | No free-forever plan. Free trial provided as a 30-day pilot dashboard instance configured with historical court data extracts. |
+| **[Tyler Attorney Manager](https://www.tylertech.com/products/odyssey/attorney-manager)** | Specialized prosecutor and public-defender case-management system for organizing charges, witnesses, victims, evidence, documents, and trial dockets. | Entry-level agency deployments start at ~$45,000–$85,000/year SaaS subscription; multi-district state prosecutor deployments reach ~$1,300,000 contract value. | No free-forever plan. Free trial offered as a 30-day sandbox pilot with sample prosecution/defense workflows and document templates. |
+| **[Tyler Financial Manager](https://www.tylertech.com/products/odyssey/financial-manager)** | Court-finance module managing escrow, cash bonds, restitution, fine disbursements, reconciliations, and general ledger accountability for court clerks. | Add-on module starting at ~$20,000–$40,000/year SaaS fee when integrated with Tyler Odyssey or Enterprise Justice suites. | No free-forever plan. Free trial available as a 14-day ledger and cashiering sandbox trial with synthetic financial ledger entries. |
 
 ## Open-Source GitHub Projects
 
